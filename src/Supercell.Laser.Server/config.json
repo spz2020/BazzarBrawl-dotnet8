@@ -1,0 +1,11 @@
+﻿{
+  "udp_host": "192.168.0.191",
+  "udp_port": 1337,
+  "database_username": "root",
+  "database_password": "Demon228For!",
+  "database_name": "penes",
+  "IsMaintence": false,
+  "MaintenceTime": "2024-12-01T12:00:00",
+  "TrophySeasonTimer": "2024-12-01T12:00:00",
+  "BrawlPassSeasonTimer": "2024-12-01T12:00:00"
+}

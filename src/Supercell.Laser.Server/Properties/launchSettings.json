@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Supercell.Laser.Server": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
