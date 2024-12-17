@@ -7,7 +7,7 @@ Server based on **Royale Brawl**
 2. Updated Battle Logic
 3. хз сами чекните 
 
-
+и нет гит игнором меня не учили пользовться!
 # How to setup
 ## On local
 1. You need to setup mysql database by yourself, in **Accounts.cs, Alliances.cs** replace ip to connect to **localhost**
