@@ -13,7 +13,8 @@ Server based on **Royale Brawl**
 1. You need to setup mysql database by yourself, in **Accounts.cs, Alliances.cs** replace ip to connect to **localhost**
 2. In config.json replace udp_host to your local ip and replace database_username, database_name, database_password
 3. Open BazzarLaser.27.269.sln
-4. Click on ![image](https://github.com/user-attachments/assets/0fcf0d2d-8265-442d-9321-36bdd446cd46)
+4. Click on ![image](https://github.com/user-attachments/assets/df77bb66-834f-4535-9b94-521c3d7d2026)
+
 5. Done! 
 
 ## On host 
