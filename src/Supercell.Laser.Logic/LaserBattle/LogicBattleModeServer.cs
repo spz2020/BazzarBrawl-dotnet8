@@ -3260,10 +3260,8 @@
                 {
                     Console.WriteLine($"Error sending vision update to player {player.PlayerIndex}: {ex.Message}");
                     Console.WriteLine($"Stack trace: {ex.StackTrace}");
-                    // Consider additional actions for handling the error:
-                    // - Log to a file
-                    // - Notify other parts of the game
-                    // - Retry sending the update (if appropriate)
+// гавно какашка убрал лол
+                    
                     foreach (BattlePlayer player1 in this.m_players)
                     {
                         var message = new ServerErrorMessage(43);
