@@ -1,4 +1,4 @@
-# BazzarBrawl - dotnet 9.0 Supercell BrawlStars Server Emulator
+# BazzarBrawl - dotnet 8.0 Supercell BrawlStars Server Emulator
 
 Server based on **Royale Brawl** 
 
