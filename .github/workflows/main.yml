@@ -34,3 +34,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: Server
+        path: src/Supercell.Laser.Server/bin/Debug/net8.0/Supercell.Laser.Server.1.0.0.zip
